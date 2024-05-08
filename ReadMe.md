@@ -16,7 +16,7 @@ For backend app, you will use this image: `ghcr.io/houssemdellai/containerapps-a
 
 ```shell
 $RESOURCE_GROUP="rg-container-apps"
-$LOCATION="westeurope"
+$LOCATION="uksouth"
 $CONTAINERAPPS_ENVIRONMENT="aca-environment"
 $CONTAINERAPPS_BACKEND="aca-app-backend-api"
 $CONTAINERAPPS_FRONTEND="aca-app-frontend-ui"
