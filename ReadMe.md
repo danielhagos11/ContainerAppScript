@@ -7,12 +7,6 @@ Through a series of Azure CLI commands, you will:
 3. Create a new Container Apps Environment (by default, will create a Log Analytics)
 4. Create a new Container Apps using a sample container image from MCR registry
 
-You will be using a sample backend and frontend container images available here: https://github.com/HoussemDellai?tab=packages.
-
-For frontend app, you will use this image: `ghcr.io/houssemdellai/containerapps-album-frontend:v1`.
-
-For backend app, you will use this image: `ghcr.io/houssemdellai/containerapps-album-backend:v1`.
-
 
 ```shell
 $RESOURCE_GROUP="rg-container-apps"
